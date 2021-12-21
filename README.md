@@ -9,4 +9,3 @@ I wish to work on CSS to some degree each day of working. This will involve both
 ### Goals of the project.
 
 Being a Twitter user for years, I have my fair share of gripes with the app. Using the Twitter API. My goal will be to create a version of the blue bird. My own version that impliments ideas and features taken both from my own mind, as well as friends of mine.
-# my-twitter
